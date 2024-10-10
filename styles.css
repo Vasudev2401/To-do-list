@@ -1,0 +1,52 @@
+#taskInput
+{
+    padding-inline: 200px;
+    padding-block: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.heading
+{
+    color:rgb(0, 71, 111);
+}
+
+#main-heading
+{
+    font-size: 50px;
+}
+
+body{
+    background-color:rgb(0, 1, 52);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#tasks
+{
+background-color:rgb(16, 2, 94);
+margin-inline: 20px;
+padding-block: 20px;
+border-radius: 20px;
+padding-inline: 10px;
+margin-bottom:20px;
+color:rgb(0, 71, 111);
+font-size: 25px;
+}
+
+#addButton
+{
+  display:flex;
+  justify-content: center;
+  margin-top:20px;
+  color:rgb(0, 71, 111);
+  background-color: rgb(16, 2, 94);
+  font-size:20px;
+  font-weight:bolder;
+}
+
+#noTaskMessage
+{
+    display:flex;
+    justify-content: center;
+    color:rgb(0, 71, 111);
+}
